@@ -17,7 +17,7 @@ The Ecommerce-backend application contains routes to APIs to create, get, update
 
 ## Deployed Application 
 
-[E-Commerce Walk-through Video]()
+[Walk-through Video]()
 
 
 ## User Story 
