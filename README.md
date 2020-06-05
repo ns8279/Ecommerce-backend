@@ -41,7 +41,7 @@ THEN I am able to successfully create, update, and delete data in my database<br
 
 ## Usage
 
-The application can be used as a by an ecommerce app to create, get, update and delete categories, products and tags and serves as a backend / baseline for an e-commerce application.
+The application can be used as by an ecommerce app to create, get, update and delete categories, products and tags and serves as a backend
 
 ## License
 
